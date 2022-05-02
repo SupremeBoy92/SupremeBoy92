@@ -1,5 +1,3 @@
-
-
 ### Hi there, I'm Supreme 👋 
 
 ## I'm a little freak that tries to learn and create new things!
