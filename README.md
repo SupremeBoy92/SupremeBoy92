@@ -1,6 +1,6 @@
 ### Hi there, I'm Supreme 👋 
 
-## I'm a teen that tries to learn and create new things!
+## I'm a little freak that tries to learn and create new things!
 
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with open source developers
