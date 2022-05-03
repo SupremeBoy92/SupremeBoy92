@@ -28,3 +28,5 @@ SupremeBoy#2186
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SupremeBoy92&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupremeBoy92&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
