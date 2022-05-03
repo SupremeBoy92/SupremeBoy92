@@ -7,7 +7,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar :guitar: :metal:.
 
-### Connect with me:
+### Contact with me:
 
 <img align="left" alt="https://discord.gg/eBpmkW6e5j" width="50px" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-2-1.png" />
 SupremeBoy#2186
